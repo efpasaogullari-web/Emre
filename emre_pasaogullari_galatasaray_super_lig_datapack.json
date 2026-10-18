@@ -1,0 +1,39 @@
+{
+  "PlayerData": [
+    {
+      "ID": 999999,
+      "Forename": "Emre",
+      "Surname": "Pasaogullari",
+      "ImageURL": "",
+      "Club": "Galatasaray",
+      "ClubID": 1,
+      "Rating": 99,
+      "OverallRating": 99,
+      "Positions": ["DL", "DC", "DR", "DMC", "ML", "MC", "MR", "AML", "AMC", "AMR", "ST"],
+      "PreferredPosition": "MC"
+    }
+  ],
+  "ClubData": [
+    {
+      "ID": 1,
+      "Name": "Galatasaray",
+      "ShortName": "GAL",
+      "ImageURL": ""
+    }
+  ],
+  "LeagueData": [
+    {
+      "ID": 28,
+      "Name": "Turkish Süper Lig",
+      "ShortName": "TSL",
+      "ImageURL": ""
+    }
+  ],
+  "CupData": [],
+  "StadiumData": [
+    {
+      "ID": 1,
+      "Name": "RAMS Park"
+    }
+  ]
+}
